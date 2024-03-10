@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae652c83fa15324f804429624ee31e3, type: 3}
+  m_Name: Mega_Berger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 45f05b90aa80cb049a539436ce2e2f76, type: 2}
+  - {fileID: 11400000, guid: 761e52210798f464880dba35e1557701, type: 2}
+  - {fileID: 11400000, guid: 928f661c788508649beeee942db0fa73, type: 2}
+  - {fileID: 11400000, guid: 10b022a00e0bb734e9c9160de1c3e6a5, type: 2}
+  - {fileID: 11400000, guid: 42f069a5d108c3e489b5476b4f50f530, type: 2}
+  recipeName: Mega Berger
